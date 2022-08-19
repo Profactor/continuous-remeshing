@@ -25,7 +25,7 @@ save_images(target_images[...,3:], './out/target_alpha/')
 
 vertices,faces = make_sphere(level=2,radius=.5)
 
-opt = MeshOptimizer(vertices,faces,local_edgelen=False)
+opt = MeshOptimizer(vertices,faces)
 vertices = opt.vertices
 snapshots = []
 
