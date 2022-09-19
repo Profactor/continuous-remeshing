@@ -9,6 +9,9 @@ Source code and data for our paper [Continuous Remeshing For Inverse Rendering](
   - Paper (optional): matplotlib, Blender, igl
   
 ## Videos
+[Presentation at the CGI 2022](https://www.youtube.com/watch?v=-8GSxJ-iv7E)
+
+[![CGI 2022 gif](https://user-images.githubusercontent.com/18048248/191042162-1da4578a-5684-4249-a886-bbabff595140.gif)](https://www.youtube.com/watch?v=-8GSxJ-iv7E)
 
 https://user-images.githubusercontent.com/18048248/180446077-e41e16a4-604d-495d-8e47-47c2f630c181.mp4
 
