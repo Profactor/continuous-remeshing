@@ -154,8 +154,8 @@ def split_edges(
 
     #   c2                    c2               c...corners = faces
     #    . .                   . .             s...side_vert, 0 means no split
-	#    .   .                 .N2 .           S...shrunk_face
-	#    .     .               .     .         Ni...new_faces
+    #    .   .                 .N2 .           S...shrunk_face
+    #    .     .               .     .         Ni...new_faces
     #   s2      s1           s2|c2...s1|c1
     #    .        .            .     .  .
     #    .          .          . S .      .
