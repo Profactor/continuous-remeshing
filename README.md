@@ -8,6 +8,9 @@ Source code and data for our paper [Continuous Remeshing For Inverse Rendering](
   - Gui (optional): open3d
   - Paper (optional): matplotlib, Blender, igl
   
+## Getting Started
+[example.py](example.py) is a good starting point. 
+
 ## Videos
 [Presentation at the CGI 2022](https://www.youtube.com/watch?v=-8GSxJ-iv7E)
 
